@@ -36,6 +36,7 @@ section {
     background-image: linear-gradient(pink, red);
     padding: 10px 30px;
     border-radius: 10px;
+    margin: 30px;
 }
 
 #shadow-first-pic {
