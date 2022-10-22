@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.mama-color1 {
+    color: crimson;
+}
+
+.mama-color2 {
+    color: forestgreen;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+    margin-top: 50px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(pink, red);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+#shadow-first-pic {
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
